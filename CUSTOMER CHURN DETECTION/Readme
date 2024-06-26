@@ -1,1 +1,0 @@
-This notebook contains the code for the detection of customer churn based on 19 independent variables. I have checked the accuracy using Logistic regression, Random forest and Gradient boosting. I then finetuned Random forest and it has highest accuracy. I loaded the model in file and attached it in the repo. Also attached the dataset for reference.
