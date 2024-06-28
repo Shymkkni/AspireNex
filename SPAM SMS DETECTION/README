@@ -1,0 +1,5 @@
+The model predicts whether a message is spam or ham(legit). 
+The algorithm used is Support vector machine. 
+I have attached the dataset for reference.
+You do not need to run the whole ipynb file completely. 
+Just download the .pkl file and predict using the pretrained model.
